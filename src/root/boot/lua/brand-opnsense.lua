@@ -40,7 +40,7 @@ local brand_opnsense = {
 
 drawer.addBrand("opnsense", {
 	graphic = brand_opnsense,
-	shift = {x = 10, y = 1},
+	shift = {x = 2, y = 1},
 })
 
 return true
